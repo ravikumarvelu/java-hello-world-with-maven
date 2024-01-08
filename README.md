@@ -53,7 +53,7 @@ First you’ll need to setup a Java project for Maven to build. To keep the focu
         }
     }
     ```
-
+    
 Now that you have a project that is ready to be built with Maven, the next step is to build this project with Maven.
 
 ### Define a simple Maven build
